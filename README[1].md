@@ -38,4 +38,4 @@ streamlit run app.py
 Dataset used: [Spam CSV Dataset (Kaggle)](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 
 ## 🧠 Author
-Developed by **Kusu**
+Developed by **Kusuma Satyavarapu**
